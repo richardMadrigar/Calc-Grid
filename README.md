@@ -8,7 +8,7 @@
 
 <h2> 
 <p align="center">
-  <img alt="calculadora" src="./Calc-Grid.png" width="500px height="700px">
+  <img alt="calculadora" src="./Calc-Grid-Neon.png" width="500px height="700px">
 </p>
 </h2>
 
